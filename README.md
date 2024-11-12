@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Overview
+The trivia test project uses the Open Trivia Database API to fetch a variety of trivia questions, which dynamically populate your app. This setup allows you to work with asynchronous API requests, error handling, and data parsing—essential skills for interacting with external APIs in React.
+![image](https://github.com/user-attachments/assets/a860aeac-4100-459e-9428-13f53e9a9516)
+![image](https://github.com/user-attachments/assets/2810b0a8-0fc5-496a-b3f7-587813b28876)
